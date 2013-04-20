@@ -1,0 +1,1 @@
+All of the tests for different configurations are set up as unit tests in GeneticTest.java
